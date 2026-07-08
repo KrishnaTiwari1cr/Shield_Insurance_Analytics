@@ -103,16 +103,16 @@ fact_settlements      — Settlement data with settlement percentages
 ## 🖼️ Dashboard Screenshots
 
 ### Home Page
-![Home Page](Screenshots/Home.png)
+![Home Page](Home_Page.png)
 
 ### General View
-![General View](Screenshots/General_View.png)
+![General View](General_View.png)
 
 ### Sales View
-![Sales View](Screenshots/Sales_View.png)
+![Sales View](Sales_View.png)
 
 ### Age Group Analysis
-![Age Group Analysis](Screenshots/Age_Group_Analysis.png)
+![Age Group Analysis](Age_Group_Analysis.png)
 
 ---
 
