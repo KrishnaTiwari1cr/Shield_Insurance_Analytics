@@ -8,6 +8,13 @@
 This project is a **4-page interactive Power BI dashboard** built for Shield Insurance as part of the **Codebasics Virtual Internship** with AtliQ Technologies. The dashboard analyzes 6 months of insurance business data (Nov 2022 – Apr 2023) covering revenue performance, customer trends, sales channel analysis, and demographic insights.
 
 ---
+## 🔴 Live Dashboard
+
+[![View Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNTU2NjMyZTgtMmUxOS00YmViLWI0YmItNGZiOTg3OTljMGQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+> Click the badge above to access the live interactive dashboard on Power BI Service.
+
+---
 
 ## 🎯 Problem Statement
 
