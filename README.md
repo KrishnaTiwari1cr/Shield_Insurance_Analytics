@@ -1,5 +1,5 @@
 # 🛡️ Shield Insurance Analytics Dashboard
-### Power BI | Data Analytics | Virtual Internship Project
+### Power BI | Data Analytics 
 
 ---
 
